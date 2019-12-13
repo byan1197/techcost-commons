@@ -1,0 +1,19 @@
+{
+  "name": "@bonyaa/techcost-commons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byan1197/techcost-commons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byan1197/techcost-commons/issues"
+  },
+  "homepage": "https://github.com/byan1197/techcost-commons#readme"
+}
