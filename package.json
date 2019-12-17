@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/byan1197/techcost-commons/issues"
   },
-  "homepage": "https://github.com/byan1197/techcost-commons#readme"
+  "homepage": "https://github.com/byan1197/techcost-commons#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.1"
+  }
 }
