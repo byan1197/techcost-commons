@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/byan1197/techcost-commons#readme",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "moment": "^2.24.0",
     "mongoose": "^5.8.1"
   }
